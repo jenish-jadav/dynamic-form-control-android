@@ -1,0 +1,91 @@
+{
+  "controls": [
+    {
+      "control_id": 1,
+      "control_type": "EditText",
+      "is_required": true,
+      "options": [],
+      "title": "Name",
+      "value": "Jenish"
+    },
+    {
+      "control_id": 2,
+      "control_type": "Spinner",
+      "is_required": true,
+      "options": [
+        {
+          "id": 10,
+          "value": "Development"
+        },
+        {
+          "id": 20,
+          "value": "Designing"
+        },
+        {
+          "id": 30,
+          "value": "Testing"
+        }
+      ],
+      "title": "Department",
+      "value": ""
+    },
+    {
+      "control_id": 3,
+      "control_type": "RadioButton",
+      "is_required": true,
+      "options": [
+        {
+          "id": 40,
+          "value": "Female"
+        },
+        {
+          "id": 50,
+          "value": "Male"
+        }
+      ],
+      "title": "Gender",
+      "value": ""
+    },
+    {
+      "control_id": 4,
+      "control_type": "CheckBox",
+      "is_required": true,
+      "options": [
+        {
+          "id": 60,
+          "value": "Movie"
+        },
+        {
+          "id": 70,
+          "value": "Coding"
+        },
+        {
+          "id": 80,
+          "value": "Cricket"
+        },
+        {
+          "id": 90,
+          "value": "Reading"
+        }
+      ],
+      "title": "Hobbies",
+      "value": ""
+    },
+    {
+      "control_id": 5,
+      "control_type": "DatePicker",
+      "is_required": true,
+      "options": [],
+      "title": "Birthdate",
+      "value": ""
+    },
+    {
+      "control_id": 6,
+      "control_type": "SubmitButton",
+      "is_required": false,
+      "options": [],
+      "title": "",
+      "value": "Submit"
+    }
+  ]
+}
