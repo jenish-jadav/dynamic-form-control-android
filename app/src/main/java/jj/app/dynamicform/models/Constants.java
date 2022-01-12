@@ -9,4 +9,10 @@ public class Constants {
     public static final String DATE_PICKER = "DatePicker";
     public static final String SUBMIT_BUTTON = "SubmitButton";
 
+    public static final String header = "header";
+    public static final String radio_group = "radio-group";
+    public static final String text = "text";
+    public static final String form_control = "form-control";
+    public static final String textarea = "textarea";
+
 }
